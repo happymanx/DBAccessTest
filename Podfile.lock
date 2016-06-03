@@ -1,0 +1,10 @@
+PODS:
+  - DBAccess (1.6.12)
+
+DEPENDENCIES:
+  - DBAccess
+
+SPEC CHECKSUMS:
+  DBAccess: ea690070d12339d5314314e86e9bfbbabb781aeb
+
+COCOAPODS: 0.39.0
